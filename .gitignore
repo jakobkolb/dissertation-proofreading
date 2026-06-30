@@ -1,0 +1,4 @@
+work/*.docx
+work/*.pdf
+work/batches/
+work/manifest.json
